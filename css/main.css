@@ -128,3 +128,9 @@ p {
 .showCode {
  display: block;
 }
+
+{
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
